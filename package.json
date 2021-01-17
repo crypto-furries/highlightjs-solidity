@@ -1,5 +1,5 @@
 {
-  "name": "highlightjs-solidity",
+  "name": "highlightjs-solidity-shimless",
   "version": "1.0.20",
   "description": "highlight.js syntax definition for Ethereum's Solidity language",
   "main": "solidity.js",
